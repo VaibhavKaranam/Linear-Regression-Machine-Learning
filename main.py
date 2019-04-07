@@ -57,7 +57,3 @@ plt.scatter(x_prediction, y_prediction, color='#fc003f', label="predicted")
 plt.plot(x_values, regression_line, color='000000', label='regression line')
 plt.legend(loc=4)
 plt.savefig("graph.png")
-
-
-
-
